@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#011627</color>
+    <color name="colorPrimaryDark">#011627</color>
+    <color name="colorAccent">#0AFAFA</color>
+    <color name="colorIcon">#FE0000</color>
+    <color name="colorPattern1">#011627</color>
+    <color name="colorPattern2">#FDFFFC</color>
+    <color name="colorPattern3">#2EC4B6</color>
+    <color name="colorPattern4">#E71D36</color>
+    <color name="colorPattern5">#ff9f1c</color>
+    <color name="backgroundIcon">#0C0A22</color>
+    <color name="thumbLight">#BDBDBD</color>
+    <color name="thumbDark">#5A5A5A</color>
+</resources>
